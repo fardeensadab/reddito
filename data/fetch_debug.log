@@ -1,0 +1,5 @@
+2025-12-04 15:13:20,221 - INFO - ================================================================================
+2025-12-04 15:13:20,222 - INFO - RedditFetcher initialized
+2025-12-04 15:13:20,222 - INFO - Data directory: D:\Research\RedditDataset\data
+2025-12-04 15:13:20,222 - INFO - Log file: D:\Research\RedditDataset\data\fetch_debug.log
+2025-12-04 15:13:20,224 - INFO - ====== WebDriver manager ======
