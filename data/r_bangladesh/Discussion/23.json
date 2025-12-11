@@ -1,0 +1,21 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1pfy4pl/secure_boot_enable_korar_bepare_help_lagbe/",
+  "hash": "b13ad09442e92a34f1aeca440e73110c",
+  "scraped_at": "2025-12-08T11:22:29.904808",
+  "title": "Secure boot enable korar bepare help lagbe.",
+  "description": "Ami 1.5 months age new PC build korlam tarpor kichu din age akta post dekhlam j gigabyte b650M K mobo tay secure boot enable korle nki PC boot hoy na. Amar kacheo same mobo ache. Amr Apex khelar jonno secure boot enable kora lagbe akhon ami aktu bhoye achi secure boot enable korbo kina CZ jodi same problem hoy. Karo kache jodi Gigabyte b650M K mobo ta thake r kono problem chara secure enable korechen tahole please aktu help korben kivabe secure boot enable korbo ai bishoy. R jodi same problem hoy( secure boot enable korle PC jodi boot na hoy) tahole oita thik korar kono way ache kina r thakle kivabe thik korbo shei bishoye jana thakleo aktu janaben please\namr disk hocche GPT\nThanks in advance.",
+  "votes": "2",
+  "comments": [
+    {
+      "text": "Your post has been automatically put into the moderation queue for review, due to not meeting one (or more) of the subreddit rules. You can message the moderators and share the link to your post (mandatory) if you do not receive a response within a day or two.\nRule(s): Your account should have at least 5 karma points in order to submit a post.\nI am a bot, and this action was performed automatically. Please contact the moderators of this subreddit if you have any questions or concerns.",
+      "votes": "1",
+      "replies": []
+    },
+    {
+      "text": "okay apnar secure boot jebhabe korle kono shomossha hobe na koyekta precuation dicchi:\nlatest nov 21 agesa bios lagbe apnar. jodi apnar bios agesa na hoy (bios e giye version jodi f36 er kom hoy) tahole shomossha hote pare.\nlatest bios install korar por bios settings e giye advanced mode e giye csm support disable korben. ftpm enable korben.\nsecure boot option e giye Key Management or Expert Key Management theke Restore Factory Keys or Install Factory Defaults (or just delete the current keys) korben. secure mode abar standard e rakhben\nf10 press kore \"save and exit\" korben.\nbios update er shomoy uninterrupted electricity er proyojon abong koyekta youtube vid dekhe niyen lol.",
+      "votes": "1",
+      "replies": []
+    }
+  ],
+  "id": 23
+}

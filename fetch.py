@@ -52,19 +52,54 @@ class RedditFetcher:
         self.logger.info(f"Data directory: {self.data_dir.absolute()}")
         self.logger.info(f"Log file: {self.log_file.absolute()}")
     
+    def _extract_flair_from_url(self, url: str) -> Optional[str]:
+        """
+        Extract flair name from URL parameter
+        Example: f=flair_name%3A%22Discussion%2F%E0%A6%86%E0%A6%B2%E0%A7%87%E0%A6%BE%E0%A6%9A%E0%A6%A8%E0%A6%BE%22
+        Returns: "Discussion" (first part before /)
+        """
+        import re
+        from urllib.parse import unquote
+        
+        try:
+            # Find the f parameter in the URL
+            match = re.search(r'[?&]f=([^&]+)', url)
+            if match:
+                flair_param = unquote(match.group(1))
+                # Extract text between quotes: flair_name:"Discussion/আলোচনা"
+                flair_match = re.search(r'flair_name:"([^"]+)"', flair_param)
+                if flair_match:
+                    flair_text = flair_match.group(1)
+                    # Get the first part before the slash
+                    flair_name = flair_text.split('/')[0].strip()
+                    return flair_name
+        except Exception as e:
+            self.logger.debug(f"Error extracting flair: {e}")
+        
+        return None
+    
     def _setup_community_dir(self, collection_url: str):
         """Setup community-specific directory from URL"""
         # Extract community name from URL (e.g., r/bangladesh)
         import re
         match = re.search(r'/r/([^/?]+)', collection_url)
         if match:
-            self.community_name = f"r_{match.group(1)}"
+            community_base = f"r_{match.group(1)}"
         else:
-            self.community_name = "r_unknown"
+            community_base = "r_unknown"
         
-        # Create community directory
-        self.community_dir = self.data_dir / self.community_name
-        self.community_dir.mkdir(exist_ok=True)
+        # Extract flair name if available
+        flair_name = self._extract_flair_from_url(collection_url)
+        
+        # Create directory structure: r_community/flair_name or r_community if no flair
+        if flair_name:
+            self.community_name = f"{community_base}/{flair_name}"
+            self.community_dir = self.data_dir / community_base / flair_name
+        else:
+            self.community_name = community_base
+            self.community_dir = self.data_dir / community_base
+        
+        self.community_dir.mkdir(parents=True, exist_ok=True)
         
         # Setup tracker files for this community
         self.id_tracker_file = self.community_dir / "id_tracker.json"

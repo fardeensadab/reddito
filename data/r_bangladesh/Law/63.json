@@ -1,0 +1,21 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1kvdq8j/can_anyone_help_me_gather_every_bangladeshi_and/",
+  "hash": "d62aaaef75b9e689e4e555f770723ab3",
+  "scraped_at": "2025-12-10T02:19:46.764960",
+  "title": "Can anyone help me gather every Bangladeshi and Indian legal judgment there is?",
+  "description": "I am working on a legal database software and I need the digital copies of every case judgment that has been made in all courts till now. Some existing websites with great databases are manupatra and bdlex but I’d have to individually download each case , which would be extremely time consuming. It’d be of immense help If someone can help me figure out how I can quickly gather the plethora of data that’s out there.",
+  "votes": "3",
+  "comments": [
+    {
+      "text": "I think there are some chrome extensions available. You can use these features. Or there might be some way to download all the files from a website. I used to use Chrome extension called \"scrapper\". It gathered all the data from the webpage and you can store it in a CSV file.",
+      "votes": "1",
+      "replies": []
+    },
+    {
+      "text": "You will either need web scrapping and database development skill your self or get help from someone who has it.\nYou cannot just do it by getting tips on Reddit. It is a significant undertaking with a wide scope.\nYou also need to realise not every judgement is available online or in digital format. May be only high courts / Supreme Court judgements after 2000 will he available.\nWhat about old judgments? Judgments from district / sub district level courts / magistrates?",
+      "votes": "1",
+      "replies": []
+    }
+  ],
+  "id": 63
+}

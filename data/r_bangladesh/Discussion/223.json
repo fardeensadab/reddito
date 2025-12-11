@@ -1,0 +1,16 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1p39dc0/are_free_vpns_being_banned_in_bangladesh/",
+  "hash": "f512dcc640568ed7285f66d33df4d855",
+  "scraped_at": "2025-12-08T12:19:26.752490",
+  "title": "Are free VPNs being banned in Bangladesh?",
+  "description": "I’ve always used Cloudflare WARP for gaming, but for the past month I haven’t been able to access WARP / one.one.one.one, or free VPN sites like windscribe.com and protonvpn.com.\nMy payment receipts show my ISP as “Selim Online,” but on router-network.com, it’s listed as “Exabyte” under “Orange Communication.”",
+  "votes": "2",
+  "comments": [
+    {
+      "text": "I am using WARP right now to access Reddit. So pretty sure its not a VPN issue.\nAbout the ISP names, the first name is the end-level seller name and the other name is the actually IIG Resellers name",
+      "votes": "2",
+      "replies": []
+    }
+  ],
+  "id": 223
+}

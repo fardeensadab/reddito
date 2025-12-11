@@ -1,0 +1,28 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1p73keb/international_payments/",
+  "hash": "9352c76d4f24d2a198d01ae66e80114f",
+  "scraped_at": "2025-12-08T19:47:26.149115",
+  "title": "International Payments",
+  "description": "I have been using someone else's Paypal for the last two years, but unfortunately he can't receive them anymore. How do I get payments from International clients?\nI have looked online, and the only thing I can find is Gumroad. Is it trusted? Has anyone used it and gotten paid?",
+  "votes": "5",
+  "comments": [
+    {
+      "text": "Use Payoneer.\nTried and tested. Used by a lot of freelancers.",
+      "votes": "3",
+      "replies": [
+        {
+          "text": "My clients dont have it tho",
+          "votes": "3",
+          "replies": [
+            {
+              "text": "You can request payment to get a link which your client can use to pay via credit card.",
+              "votes": "3",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": 72
+}

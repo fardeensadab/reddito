@@ -1,0 +1,44 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1pf1lmq/how_to_activate_sim_virtually/",
+  "hash": "f4a91a619ce90c0bdc33fe30a733696e",
+  "scraped_at": "2025-12-08T11:26:42.646741",
+  "title": "How to activate sim virtually",
+  "description": "Hi guys, is there a way to get and activate a deshi sim and do the NID authentication virtually if I'm not physically able to go in for the verification? I'm guessing there's a way for those living abroad.. please share",
+  "votes": "5",
+  "comments": [
+    {
+      "text": "There’s no way. You must go to any registration point physically and register your sim with your biometric information.",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "I already did biometric to get my NID, why do I have to do it again for the sim? The whole point of the NID is to avoid doing it each time.. so bizarre.",
+          "votes": "1",
+          "replies": [
+            {
+              "text": "Did I make the rule? No. You asked and I provided you information.",
+              "votes": "1",
+              "replies": []
+            },
+            {
+              "text": "Think again.  Just claiming “I can tell the number/have printed copy of Mr. XYZ’s NID” -does it automatically mean you are Mr. XYZ?  Not a single country in this world works that way. There is always some kind of ID verification (online or offline). And of course additional biometric verification makes more sense for Bangladesh.\nPlease don’t give me now reference of data esims. These aren’t same as classic sims",
+              "votes": "1",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sadly no. The whole point behind that is to ensure that the RIM is provided to the person who is actually the owner of the SIM.",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "Thanks for confirming, that was my understanding but still thought I'd check. It's just another obstacle/nuisance. Not to mention important PII data being stored by random companies.",
+          "votes": "1",
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "id": 39
+}

@@ -1,0 +1,33 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1gili0j/the_cost_of_electricity_generated_from_solar_pv/",
+  "hash": "482e9586ba1f33ef495742201e175645",
+  "scraped_at": "2025-12-08T15:59:51.896684",
+  "title": "The Cost of Electricity Generated from Solar PV Plants Is Relatively High in Bangladesh",
+  "description": "Many in Bangladesh hold the perception that the cost of solar electricity is low. However, the bar chart I created from the BPDB Annual Report 2022-23 indicates otherwise. The declining cost of solar panels and potential tax exemptions may change this situation in the future.",
+  "votes": "17",
+  "comments": [
+    {
+      "text": "Apparently in India solar energy costs 2/3 rupees per unit whereas in Bangladesh it's 16.58 taka on average. The actual amount of looting in the power sector through quick rentals and these solar plants might even be bigger than all other sectors combined. The energy advisor declared a few days ago that there will be no more renewals of quick rental deals. It's one of the best decisions made by this government, even if we have to suffer intense power cuts in the short and medium term.",
+      "votes": "7",
+      "replies": [
+        {
+          "text": "Several factors contribute to the elevated cost of solar energy in Bangladesh compared to India. A significant factor is land availability; while land costs typically account for 3-5% of project expenses globally, in Bangladesh, this figure often exceeds 10%. In India, extensive desert regions allow for land acquisition at minimal cost, a situation not mirrored in Bangladesh. Additionally, utilities in Bangladesh are required to finance their own grid connectivity, whereas in India, these expenses are covered by the government, a practice that is relatively uncommon in many other countries. The Indian government also provides funding for upgrades to substations, while in Bangladesh and most other nations, these costs are typically borne by the utilities. Furthermore, many regions in India receive significantly more sunlight than Bangladesh, resulting in a higher capacity factor for solar energy. This increased efficiency leads to greater electricity generation, ultimately contributing to lower prices in India compared to Bangladesh.\nWhile there are numerous other factors influencing the high cost of solar energy, including corruption, it is important to recognize that attributing the issue solely to corruption oversimplifies a complex situation.",
+          "votes": "5",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "The establishment cost of solar plants is expensive, and because of high land prices, it's even higher. Bangladesh should try used barren lands like all chars in bay of bengal where lands are available and massive plants can be established.",
+      "votes": "5",
+      "replies": [
+        {
+          "text": "Utilities are generally reluctant to establish plants in remote areas where land is inexpensive due to the absence of nearby substations, and they are unwilling to bear the costs associated with constructing new substations. Additionally, they prefer to avoid the responsibility of building long transmission lines. As a result, utilities often end up constructing smaller plants in various locations near existing substations, as solar installations cannot be placed on farmland. This approach necessitates the construction of more transmission lines to transport the generated power, leading to increased costs compared to building a single large plant in one location.",
+          "votes": "2",
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "id": 232
+}

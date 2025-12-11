@@ -1,0 +1,50 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1h4sx6k/power_and_energy_a_system_designed_for_corruption/",
+  "hash": "f0b355cf77bec9da5c208da2bfa395dd",
+  "scraped_at": "2025-12-08T15:56:48.967170",
+  "title": "Power and energy: A system designed for corruption",
+  "description": "Source: https://images.thedailystar.net/business/news/power-and-energy-system-designed-corruption-3766336\n\"The unit cost of Rooppur stands at stands at $5,500/kWe, which much higher than a similar power plant in India's Kudankulam, the unit cost of which is $3,350/kWe, the report said.\"\n\"\"In the name of fuel diversification, the choice of nuclear was a misadventure. With the same kind of investment, 6,000 to 8,000 MW of renewable, gas or coal power plants could be installed,\" the report observed.\"\nMy take on this part:\nThe assertion that the Rooppur NPP will cost $12.65 billion is incorrect. The final cost will be established upon project completion. By July 1, 2025, the estimated cost will be around $9 billion, mainly funded by an $8.1 billion Russian loan. We will only repay the amount we spend, not $12.65 billion.\nThe report argues that funds could have been allocated to constructing 6,000-8,000 MW of coal, gas, and solar power. However, it subsequently criticizes the government's excessive reliance on fuel imports, which is contradictory.",
+  "votes": "16",
+  "comments": [
+    {
+      "text": "Its easy to talk about how much we can get from solar but those reports aren't doing the real comparison. How much can we generate from the same land mass? This can be in terms power generation via other means or other uses of the land.\nAlso, a significant part of those costs includes building infrastructure which we don't have. If we do another one of these, that one should be lower cost per unit.\nNuclear power plants in of itself have wide range of costs for the same output, US has ones which are nearly 3x ours on a per unit basis.",
+      "votes": "5",
+      "replies": [
+        {
+          "text": "If we use the same land mass (1062 acres), we can build a 360 MWe Solar Plant which can generate at maximum (assuming 20% capacity factor) about 630 million units of electricity annually. On the other hand, Rooppur NPP with a net capacity of 2160 MWe can produce 14 to 16 billion units annually if it is able to operate with a capacity factor between 75% and 85 %. I should mention in the first 2-3 years, it might have difficulty reaching this level of output.\nOur ability to construct the next unit at a lower cost will depend on various factors. If the next unit is developed using different technology, at a different location, under changed regulations, and with a new workforce, the costs could potentially increase. An MIT professor mentioned this.\nBangladeshi experts are mostly pro-renewable and anti-nuclear. So they don't like paying to attention to this detail.",
+          "votes": "2",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "Yeah cost seems exaggerated but It’s supposed to be more expensive cuz India already got some infrastructure unlike BD",
+      "votes": "3",
+      "replies": [
+        {
+          "text": "The White Paper acknowledges this fact but still criticizes the higher costs in comparison to India. It also notes that the expense of constructing a VVER-1200 in Egypt is about $30 billion. However, it's important to highlight that the version of the VVER being built in Egypt is the European Variant, which is a lot safer than the one we have. That's a reason for being more expensive.\nIt's not just the infrastructure that makes construction in India more affordable. The Indian company Larsen & Toubro is responsible for the plant's construction, rather than Rosatom. Plus, India often undertakes other tasks at a lower cost than the Russians. In fact, India decides which aspects of the work to handle based on cost and capability, and which tasks to outsource to the Russians.",
+          "votes": "3",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "This news report doesn't sound like written by experts, rather than facebook critics. Disappointing.\nDidn’t read the the white pepper yet. But lt would he disappointing if it’s written like this.",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "On page 315 (Table 19.1) of the Draft, the Russian load amount is reported as BDT 91,040 crores ($7.58 billion), which is similar to the $7.8 billion figure mentioned by the Russian Embassy in September 2024. However, on page 158, the document indicates that the total cost of the project is $13.2 billion, despite the fact that page 315 does not provide a final cost since the project is still ongoing. Additionally, the paper compares these costs to those of nuclear power plants, whose final expenses remain unknown as they are still under construction. The figures presented in that paper are estimated costs.\nOn page 155, the paper criticizes reliance on imported fossil fuels but calls nuclear a misadventure on page 158, despite needing only 70 tons of fuel every 12-18 months for about $125 million. It suggests Rooppur's funds could have gone to coal, gas, and solar, though coal and gas would require more imports.\nOn page 157, it is suggested that the integration of nuclear energy is a big reason battery storage is required. However, the reality is that nuclear power can maintain constant output and adjust it according to demand. That's why it needs less from batteries. The fact is solar is the source which relies more on batteries, gas or oil for grid stability because it is intermittent.",
+          "votes": "3",
+          "replies": [
+            {
+              "text": "Could you please write a review of this white paper, focusing on its relevance to the power sector? I believe it would be an interesting read.",
+              "votes": "3",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "id": 221
+}

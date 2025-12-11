@@ -1,0 +1,32 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/zmjkf3/data_localisation_will_cost_bangladesh/",
+  "hash": "bbd3959cf4a7f87965018d78ce5a286f",
+  "scraped_at": "2025-12-10T02:58:12.456319",
+  "title": "Data localisation will cost Bangladesh",
+  "description": null,
+  "votes": "4",
+  "comments": [
+    {
+      "text": "I personally support India-like data localization idea. Although there are multiple problems in our case. First would be- do we have capable infrastructures? Almost everyone is using either Indian data centers or Singapore to cover Bangladesh. Even the VPN providers are using Singapore to cover Bangladesh servers. Although enforcing data privacy law would attract some good investment in Bangladesh - but it would be probably a hit or miss. Some big tech giants will store the data locally, while minor players will probably exclude Bangladesh from their services, that might be a problem. Second issue would be- asking for govt. backdoor. Last year Bangladesh govt. requested user data and history from all the big providers. And surprise surprise, FB being the money-whore as it is- fulfilled more than 50% of govt requests, while google provided surprisingly below 20% (According to prothom alo report this month). So as authoritarian our govt is- pretty sure they’ll ask for data center backdoor access, or they’ll force the providers to fulfill all the requests since local data center falls under local jurisdiction. And bonus- we’ll see service disruptions in every political events of the opponent parties.\nData privacy is a good idea- only for সভ্য দেশ, where judiciary system actually works without govt meddling। আমরা এখনো পুরোপুরি সভ্য নই।",
+      "votes": "5",
+      "replies": [
+        {
+          "text": "FB being the money-whore as it is\nThis pleases me to read. Amen.\nআমরা এখনো পুরোপুরি সভ্য নই।\nSad but true.",
+          "votes": "1",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "Only for tech developed for BD right? Not for firms developing tech for US EU...right? Does any prominent cloud service have datacenter in BD? I had to spin up virtual desktops in Singapore data centers for tech workers in BD. Since it has the best latency.",
+      "votes": "2",
+      "replies": []
+    },
+    {
+      "text": "Bangladesh's digital future is at a critical juncture as its draft Data Protection Act includes requirements to compel firms to store data locally – a concept known as data localisation. Localisation would create a lose-lose situation for Bangladesh. It undermines Bangladesh's ability to get the most out of the data and digital tools that drive digital development. New econometric analysis shows that its trade and economy will suffer severely. Localisation also doesn't do the things its supporters say it does in terms of privacy and cybersecurity.\nThis is complete BS and Bangladesh on the right path on the policy making. Data is the knowledge and knowledge is the power. I am pretty sure no one will care for a small tiny startup working but company like Facebook or Tiktok this is massive.\nLets keep eye on what US govt is doing with tiktok, not only forcing it data center in USA it is also trying to force it to access those data within USA. We have seen how facebook used data with manipulative false narrative to pursue US election.\nRelying on other country is never a good practice if something happen those country can come back and say, hey i am shutting down your server, We have seen similar cases Ukraine war where US shutdown many russian server. Russians were get kicked out from platform like Upwork and NATO intelligence knows who lost jobs due to war and who can be pursued/targeted further with political campaign.\nBangladeshi policymakers that choose data localisation policies are setting their digital economy up for failure.\nThis is the same BS we talked when we plan to force company like Toyota to have factory in Bangladesh. But think of this if Bangladesh govt put a law that, car sell in Bangladesh must be manufactured in Bangladesh, How beneficial it would have been.\nBangladesh is home to the second largest group of global gig workers (15 percent) involved in creative and multimedia work who earn, according to Bangladesh's ICT ministry, an estimated USD 500 million annually.\nMaybe it's time, instead of Upwork and other BS multinational company Bangladesh create its own freelancing platform. Remember China has Alibaba, own social network coz their govt stopped others to propagate.\nAlways create your own strength, even it is small and broken, self reliance is the best, people will learn once they are stuck but they will learn nothing if opportunity never given,\nA new report by the US-based public policy think tank Information Technology and Innovation Foundation (ITIF) shows that after five years, Bangladesh's trade volumes and imports will decrease by an estimated 6 and 7.7 percent\nI wonder why US based policy think tank worried about Bangladesh.",
+      "votes": "2",
+      "replies": []
+    }
+  ],
+  "id": 200
+}

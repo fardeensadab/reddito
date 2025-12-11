@@ -1,0 +1,60 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1p5cvnv/anyone_having_problems_with_their_unofficial/",
+  "hash": "baf53a76c9bda0b1cf44f36acda8c70b",
+  "scraped_at": "2025-12-08T12:08:51.640994",
+  "title": "Anyone having problems with their unofficial phones?",
+  "description": "16th December 2025 NEIR is going to launch in full effect, which will basically put a halt to unofficial phone market. My dad uses an unofficial Samsung Galaxy A54, he has been using this model for almost a year. Today his cellular calls (calls made through the sim) got blocked. I checked if the device's IMEI was registered on the BTRC website and it was not. But BTRC has stated that phones already in use before 16th of December 2025 will be automatically updated in the BTRC servers. What's all this about then?\nPlease do let me know if anyone's unofficial phone actually got into the official BTRC servers, or if anyone else was having the same issues as me.\nHow to check: First get your 15 digit IMEI code by dialing *#06# and then copy one of the two IMEI number and send it to 16002 via message in this format :\nKYD<space><15 digit IMEI code>\nIf nothing else at least you'd be making sure it is registered and thank you for your time.",
+  "votes": "6",
+  "comments": [
+    {
+      "text": "Seems fine for me",
+      "votes": "2",
+      "replies": [
+        {
+          "text": "Oh I see, did you check your IMEI in BTRC server? if so then it probably did automatically got added if its unofficial.",
+          "votes": "1",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "Blocked as in?",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "No incoming or outgoing calls are going through, It doesn't even say anything when I call the number. It just ends the call. No beep beep no automated message.",
+          "votes": "1",
+          "replies": [
+            {
+              "text": "Does it show 'Server Error' during the call?",
+              "votes": "1",
+              "replies": []
+            },
+            {
+              "text": "Have you switch the sim with a different device or try disabling 4G LTE?",
+              "votes": "1",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "First turn on airplane mode, then turn it off again and check if the call is still going. This sometimes happens on my mom’s phone and it gets fixed after doing this",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "This problem is not related to that actually, I tried that and it did nothing",
+          "votes": "1",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "text": "It's most likely your phone or your sim causing the issue.",
+      "votes": "1",
+      "replies": []
+    }
+  ],
+  "id": 185
+}

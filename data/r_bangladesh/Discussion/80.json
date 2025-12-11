@@ -1,0 +1,33 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1pcf5x8/how_much_will_be_the_amount_of_tax_and_custom/",
+  "hash": "145ac3fd0631c1108fa5901283657a97",
+  "scraped_at": "2025-12-08T11:38:26.541819",
+  "title": "How much will be the amount of tax and custom duty if I buy a keyboard from UK?",
+  "description": "So I'm planning to buy a keyboard (wooting 60he v2) which is 239$ around 29k tk and the shipping is 3.5k so what will be the amount of tax and duty I need to pay? The online calculators weren't much help so if anyone is familiar with importing stuffs from abroad please help this little brother out",
+  "votes": "1",
+  "comments": [
+    {
+      "text": "please don't go with any C&F agent if possible. They'll charge you almost 100% of the total price for your product. i'm not sure if it's an option for you, but if possible, bring the product with DHL. Then you can call dhl helpline asking what your customs duty will be.\ni.e. I brought a laptop worth around $1480 with DHL, where my customs duty was 60k BDT which i paid through DHL (C&F agent asked 130k BDT as customs duty)",
+      "votes": "1",
+      "replies": [
+        {
+          "text": "Currently there's only fedx but I read their shipping policy and found they ship with dhl too.",
+          "votes": "1",
+          "replies": [
+            {
+              "text": "then ig you can first call dhl customer service and give them your product details and ask what will be the customs duty if you proceed through them",
+              "votes": "1",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Look up the HS code for your item. Then look up it on the customs website to calculate total duty to have an idea.",
+      "votes": "1",
+      "replies": []
+    }
+  ],
+  "id": 80
+}

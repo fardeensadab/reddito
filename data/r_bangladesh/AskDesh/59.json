@@ -1,0 +1,38 @@
+{
+  "url": "https://www.reddit.com/r/bangladesh/comments/1p8rtyl/nps_vs_beftn_bank_to_bank_transfer_which_one_to/",
+  "hash": "6829599dd534c82ea7f5f6c87ebf8b19",
+  "scraped_at": "2025-12-08T19:43:28.786613",
+  "title": "NPS vs BEFTN bank to bank transfer, which one to choose?",
+  "description": "Afaik, BEFTN transfers cost no money but the transaction is delayed. Could anyone tell me how long does it take for a typical transaction to complete? And what's the rate for NPS? Can you make large transactions through NPS, like say over 1 lakh taka?",
+  "votes": "5",
+  "comments": [
+    {
+      "text": "এনপিএসবি - 5/7 মিনিট ইএফটিএন - দুই কর্মদিবস",
+      "votes": "3",
+      "replies": [
+        {
+          "text": "ফি কেমন? মানে ধরেন প্রতি হাজারে কত টাকা করে পরে? আর এনপিএসবি তে কি বড় ভলিউম এর transaction করা যায়?",
+          "votes": "2",
+          "replies": [
+            {
+              "text": "NPSB - 10tk per transaction BEFTN- Free *Using core banking account of DBBL",
+              "votes": "3",
+              "replies": []
+            },
+            {
+              "text": "আমি যা জানি (ইসলামি ব্যাংকের অ্যাপ লেনদেনে), ৩ লাখ টাকা পর্যন্ত যেকোনো transaction দশ টাকা করে।",
+              "votes": "2",
+              "replies": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "BEFTN: 1 to 2 days, usually",
+      "votes": "2",
+      "replies": []
+    }
+  ],
+  "id": 59
+}
